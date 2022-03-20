@@ -1,0 +1,28 @@
+Chapter,Title,First official page #,Last page #,Real page start,Real page end
+0,TOC_Preface,-1,-1,1,30
+1,Introduction,1,30,31,60
+2,Probability - Univariate Model,31,74,61,104
+3,Probability - Multivariate Models,75,102,105,132
+4,Statistics,103,162,133,192
+5,Decision Theory,163,200,193,230
+6,Information Theory,201,222,231,252
+7,Linear Algebra,223,268,253,298
+8,Optimization,269,316,299,346
+9,Linear Discriminant Analysis,317,332,347,362
+10,Logistic Regression,333,364,363,394
+11,Linear Regression,365,408,395,438
+12,Generalized Linear Models,409,418,439,448
+13,Neural Networks for Structured Data,419,460,449,490
+14,Neural Networks for Images,461,496,491,526
+15,Neural Networks for Sequences,497,540,527,570
+16,Examplar-based Methods,541,560,571,590
+17,Kernel Methods,561,596,591,626
+18,"Trees, Forests, Bagging, and Boosting",597,620,627,650
+19,Learning with fewer Labeled Examples,621,650,651,680
+20,Dimensionality Reduction,651,708,681,738
+21,Clustering,709,734,739,764
+22,Recommender Systems,735,746,765,776
+23,Graph Embeddings,747,766,777,796
+24,Notation,767,772,797,802
+25,Index,773,792,803,822
+26,Bibliography,793,823,823,853
